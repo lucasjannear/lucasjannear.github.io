@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Teaching-assistant experience\nLinguistics 101/301 - Human Language/Introduction to Linguistics - An undergraduate introduction to Linguistics and its primary subfields: syntax, morphology, phonetics, and phonology (2024-2025)\nLit Trans 275 - The Tales of Hans Christian Andersen - An undergraduate course covering the works of Scandinavian writer Hans Christian Andersen."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Luke Annear",
+    "section": "",
+    "text": "I’m currently a PhD student in the Language Sciences program at the University of Wisconsin - Madison.\nI study how children acquire the speech sounds of their native language, and am currently focusing on how children acquire laryngeal contrasts (like voicing, aspiration) cross-linguistically. Zoomed out, I am interested in how phonological structure is built during development, and how the mental categories created influence how we say things. To this end, my work intersects the fields of Communication Sciences and Disorders and Linguistics through the belief that gaining insights into these developmental processes underlies best practices in treatment and therapy for Speech Sound Disorders.\nIn the past I’ve also done work in the field of Tolkien studies, which you’ll see reflected in prior publications. If you’re wondering where all of the carp fishing information has gone, please visit freshwaterflats.com"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "If you’d like to contact me to discuss anything research related, please send me an email: annear[at]wisc[dot]edu"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research focuses on how children learn the speech sounds of their native language. I’m interested in how perceptual, linguistic, cognitive, and sensorimotor factors impact the acquisition of speech sounds, with especial focus on the cognitive structure of speech sounds.\nFor example, children learning English frequently display patterns like:\nSpeech-language pathologists working in schools regularly encounter these patterns and work with young children to help them perceive and produce these sounds accurately so that they can communicate efficiently, and so that their early literacy development is not negatively impacted. However, the etiology of these patterns is not well understood."
+  },
+  {
+    "objectID": "research.html#understanding-contrast",
+    "href": "research.html#understanding-contrast",
+    "title": "Research",
+    "section": "Understanding contrast",
+    "text": "Understanding contrast\nOne part of my research focuses on contrasts like pizza/bizza in example 5 above. English (and German, Mandarin, etc.) uses a puff of air on p to distinguish it from b, and in English children tend to learn b before they learn p. However, Dutch (French, Italian, etc.) uses a lot of voicing/phonation on b (kind of like mb) to distinguish it from p, and in Dutch children tend to learn p before they learn b. This line of research explores the ways that these patterns across languages are both similar and different."
+  }
+]
